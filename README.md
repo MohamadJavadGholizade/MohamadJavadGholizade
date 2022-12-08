@@ -26,7 +26,11 @@
 
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="C#" alt="csharp" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-plain.svg" /></code>
+<code><img title="java" alt="java" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain.svg" /></code>
 <code><img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img title="C++" alt="Cplusplus" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-plain.svg" /></code>
+
+
 </br></br>
 
 <h2>:hammer_and_wrench: Tools I use</h2>
