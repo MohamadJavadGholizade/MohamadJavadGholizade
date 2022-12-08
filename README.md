@@ -35,10 +35,10 @@
 
 <h2>:hammer_and_wrench: Tools I use</h2>
 <code><img title="Unity" alt="unity" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" /></code>
-<code><img title="AndroidStudio" alt="android studio" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" /></code>
 <code><img title="VisualStudio" alt="visual studio" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" /></code>
 <code><img title="JetBrainRider" alt="jet brain rider" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jetbrains/jetbrains-original.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="AndroidStudio" alt="android studio" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code></code>
 <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
