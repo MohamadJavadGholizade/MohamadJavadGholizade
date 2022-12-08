@@ -6,7 +6,7 @@
 </div>
 
 <table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/MohamadJavadGholizade/MohamadJavadGholizade/blob/main/README.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:fa: Persian</a></td></tr>
 </table>
 
